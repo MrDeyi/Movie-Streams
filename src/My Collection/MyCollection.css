@@ -1,0 +1,21 @@
+.MyCollectionContainer{
+    padding: 2rem;
+    padding-left: 3rem;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5rem;
+    
+    
+}
+.btnremove{
+    background-color: rgb(196, 62, 5);
+    color: white;
+    padding: 0.5rem;
+    border-color: white;
+}
+.btnwatched{
+    background-color: rgb(5, 196, 66);
+    color: white;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    border-color: white;
+}

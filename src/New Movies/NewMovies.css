@@ -1,0 +1,10 @@
+.Newmovies{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content:space-around;
+    text-align: center;
+    padding: 2rem;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5rem;
+}

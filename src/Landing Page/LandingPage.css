@@ -1,0 +1,30 @@
+
+.landingContainer{
+
+    padding: 2rem;
+    padding-left: 3rem;
+    border-bottom: 1px solid gray;
+    margin-bottom: 5rem;
+}
+.SubNav{
+    display: flex;
+    align-items:start;
+    justify-content: space-between;
+    padding-left: 3rem;
+}
+.landmovies{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content:space-around;
+}
+.movie{
+    margin-top: 1rem;
+}
+.btnAdd{
+    background: #1b9ad9;
+    color: white;
+    padding: 0.5rem;
+    margin-right: 1rem;
+    border-color: #1b9ad9;
+}
